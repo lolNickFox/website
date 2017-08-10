@@ -1,11 +1,11 @@
 +++
-date = "2017-01-01T00:00:00"
-title = "Example Talk"
+date = "2017-08-01"
+title = "Cash Rules Everything Around Me: R01 Funding & the Diversity of Ideas"
 abstract = ""
 abstract_short = ""
-event = "Hugo Academic Theme Conference"
-event_url = "https://example.org"
-location = "London, United Kingdom"
+event = "Society for the Improvement of Psychological Science"
+event_url = "https://improvingpsych.org"
+location = "Charlottesville, Virginia"
 
 selected = false
 math = true
@@ -17,7 +17,7 @@ url_video = ""
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+caption = "my caption"
 
 +++
 

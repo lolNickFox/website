@@ -137,8 +137,11 @@ defaultContentLanguageInSubdir = false
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/lolnickfox"
-
-
+  
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/nick-fox-24003536/"
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
@@ -146,15 +149,15 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Home"
-  url = "about"
+  url = "#about"
   weight = 1
 
-[[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
+ [[menu.main]]
+  name = "Talks"
+  url = "#talks"
   weight = 2
-
-[[menu.main]]
+  
+  [[menu.main]]
   name = "Posts"
   url = "#posts"
   weight = 3

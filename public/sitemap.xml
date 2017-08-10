@@ -5,8 +5,17 @@
     
     <url>
     
-      <loc>/tags/academic/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <loc>/publications_selected/</loc>
+      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publications/</loc>
+      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -15,6 +24,24 @@
     <url>
     
       <loc>/talk/example-talk/</loc>
+      <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/free_speech_net_neutrality/</loc>
+      <lastmod>2017-07-26T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -33,15 +60,6 @@
     <url>
     
       <loc>/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -189,6 +207,16 @@
     
     <url>
     
+      <loc>/tags/free-speech/</loc>
+      <lastmod>2017-07-26T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/hugo/</loc>
       <lastmod>2016-04-20T12:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -201,6 +229,16 @@
     
       <loc>/tags/jekyll/</loc>
       <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/net-neutrality/</loc>
+      <lastmod>2017-07-26T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -262,6 +300,15 @@
       <loc>/tags/r-markdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/talk/</loc>
+      <lastmod>2017-08-01T00:00:00+00:00</lastmod>
     </url>
     
   
