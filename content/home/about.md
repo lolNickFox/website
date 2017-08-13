@@ -18,6 +18,7 @@ weight = 1
   ]
 
 # List your qualifications (such as academic degrees).
+
 [[education.courses]]
   course = "MA in Psychology (Behavioral Neuroscience)"
   institution = "Rutgers University"
@@ -35,6 +36,5 @@ weight = 1
  
 +++
 
-# Biography
 
 I am a PhD student at Rutgers University currently working on exploring academic social networks and how identifying information is transmitted between individuals.

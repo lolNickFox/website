@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Nicholas Fox</title>
-    <link>/project/</link>
-    <description>Recent content in Projects on Nicholas Fox</description>
+    <title>Social Networks on Nicholas Fox</title>
+    <link>/tags/social-networks/</link>
+    <description>Recent content in Social Networks on Nicholas Fox</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Nicholas Fox</copyright>
     <lastBuildDate>Sun, 13 Aug 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/social-networks/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Measuring the Size of Hidden Populations</title>
@@ -22,15 +22,6 @@
 
 &lt;p&gt;One way to try and count the number of people with concealable stigmas is to use social networks.  By tapping into the shared information that exists within social networks, researchers can glean the number of people have certain characteristcs by asking members of the general population.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>/project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/project/example-external-project/</guid>
-      <description></description>
     </item>
     
   </channel>

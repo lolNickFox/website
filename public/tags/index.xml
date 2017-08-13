@@ -21,15 +21,6 @@
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Demo</title>
       <link>/tags/demo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -48,11 +39,29 @@
     </item>
     
     <item>
+      <title>Hidden Populations</title>
+      <link>/tags/hidden-populations/</link>
+      <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/hidden-populations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Net Neutrality</title>
       <link>/tags/net-neutrality/</link>
       <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/net-neutrality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Networks</title>
+      <link>/tags/social-networks/</link>
+      <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/social-networks/</guid>
       <description></description>
     </item>
     
