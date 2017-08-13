@@ -30,8 +30,8 @@ view = 1
   tag = ".social-networks"
 
 [[filter]]
-  name = "Other"
-  tag = ".demo"
+  name = "Maternal Immune Activation"
+  tag = ".MIA"
 
 +++
 
