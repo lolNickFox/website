@@ -2,7 +2,7 @@
 # Projects widget.
 # This widget displays all projects from `content/project/`.
 
-date = "2016-04-20T00:00:00"
+date = "2017-08-13"
 draft = false
 
 title = "Projects"
@@ -24,14 +24,14 @@ view = 1
 [[filter]]
   name = "All"
   tag = "*"
-  
-[[filter]]
-  name = "Social Networks"
-  tag = ".social-networks"
 
 [[filter]]
   name = "Maternal Immune Activation"
   tag = ".MIA"
+  
+[[filter]]
+  name = "Social Networks"
+  tag = ".social-networks"
 
 +++
 
