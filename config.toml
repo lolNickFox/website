@@ -86,9 +86,12 @@ defaultContentLanguageInSubdir = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = []
+  custom_css = ["blue.css"]
   custom_js  = []
-
+  
+  # Using the blue.css custome css theme from Alison Presmanes Hill
+  # https://github.com/apreshill 
+  
   # Publication types.
   #   Used to categorize publications.
   #   The index of the publication type in the list is used as its unique numerical identifier.
