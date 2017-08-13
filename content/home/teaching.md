@@ -18,7 +18,7 @@ I typically teach a course every Fall and Spring semester, and have taught most 
 
 I am currently teaching the following course at Rutgers University:
 
-- Psych200 - Quantitative Methods
+**- Psych200 - Quantitative Methods**
 
 I've previously taught the following courses:
 
