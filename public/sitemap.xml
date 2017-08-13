@@ -23,6 +23,15 @@
     
     <url>
     
+      <loc>/project/example-external-project/</loc>
+      <lastmod>2017-08-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/project/social-networks/</loc>
       <lastmod>2017-08-13T00:00:00+00:00</lastmod>
     </url>
@@ -77,15 +86,6 @@
     
     <url>
     
-      <loc>/project/example-external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/publication/person-re-identification/</loc>
       <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     </url>
@@ -124,7 +124,8 @@
     
     <url>
     
-      <loc>/categories/</loc>
+      <loc>/tags/behavioral-neuroscience/</loc>
+      <lastmod>2017-08-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -133,8 +134,7 @@
     
     <url>
     
-      <loc>/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <loc>/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -154,6 +154,26 @@
     <url>
     
       <loc>/tags/hidden-populations/</loc>
+      <lastmod>2017-08-13T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/maternal-immune-activation/</loc>
+      <lastmod>2017-08-13T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/mia/</loc>
       <lastmod>2017-08-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
