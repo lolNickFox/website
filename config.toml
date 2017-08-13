@@ -89,7 +89,7 @@ defaultContentLanguageInSubdir = false
   custom_css = ["blue.css"]
   custom_js  = []
   
-  # Using the blue.css custome css theme from Alison Presmanes Hill
+  # Using the blue.css custom css theme from Alison Presmanes Hill
   # https://github.com/apreshill 
   
   # Publication types.
