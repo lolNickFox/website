@@ -1,0 +1,24 @@
+---
+title: "website"
+author: "Nick_Fox"
+date: "8/9/2017"
+output: html_document
+---
+
+```{r echo = FALSE}
+#install packages and load them
+if (!requireNamespace("devtools")) install.packages("devtools")
+devtools::install_github("rstudio/blogdown")
+
+library(blogdown)
+install_hugo()
+
+```
+
+```{r echo = FALSE}
+
+#create a new site with the academic theme
+blogdown::new_site(theme = "gcushen/hugo-academic", theme_example = TRUE)
+
+
+```
