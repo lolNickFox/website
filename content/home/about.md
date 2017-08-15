@@ -37,4 +37,4 @@ weight = 1
 +++
 
 
-I am a PhD student at Rutgers University currently working on exploring academic social networks and how identifying information is transmitted between individuals.
+I am a PhD student at Rutgers University currently working on exploring academic social networks and how identifying information is transmitted between individuals.  I am also interested in how the maternal immune system can affect fetal neurodevelopment and downstream, adult offspring behavior.
