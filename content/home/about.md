@@ -14,6 +14,7 @@ weight = 1
   interests = [
     "Social Networks",
     "Hidden Populations",
+    "Psychoneuroimmunology",
     "Open & Reproducible Science"
   ]
 
