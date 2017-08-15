@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R on Nicholas Fox</title>
-    <link>/tags/r/</link>
-    <description>Recent content in R on Nicholas Fox</description>
+    <title>Rtweet on Nicholas Fox</title>
+    <link>/tags/rtweet/</link>
+    <description>Recent content in Rtweet on Nicholas Fox</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Nicholas Fox</copyright>
     <lastBuildDate>Tue, 15 Aug 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/r/" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/rtweet/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Sentiment of Tweets Directed at @realDonaldTrump</title>
