@@ -23,6 +23,15 @@
     
     <url>
     
+      <loc>/post/tone/</loc>
+      <lastmod>2017-08-28T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/trump_tweets/</loc>
       <lastmod>2017-08-15T00:00:00+00:00</lastmod>
     </url>
@@ -250,6 +259,16 @@
     
     <url>
     
+      <loc>/tags/open-science/</loc>
+      <lastmod>2017-08-28T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/project/</loc>
       <lastmod>2017-08-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -281,7 +300,7 @@
     <url>
     
       <loc>/tags/r/</loc>
-      <lastmod>2017-08-15T00:00:00+00:00</lastmod>
+      <lastmod>2017-08-28T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -300,7 +319,7 @@
     <url>
     
       <loc>/tags/rtweet/</loc>
-      <lastmod>2017-08-15T00:00:00+00:00</lastmod>
+      <lastmod>2017-08-28T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -329,8 +348,18 @@
     
     <url>
     
+      <loc>/tags/tone/</loc>
+      <lastmod>2017-08-28T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/twitter/</loc>
-      <lastmod>2017-08-15T00:00:00+00:00</lastmod>
+      <lastmod>2017-08-28T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
