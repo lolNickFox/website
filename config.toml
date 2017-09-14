@@ -20,7 +20,7 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Nicholas Fox"
-  role = "Graduate Student"
+  role = "PhD Student"
   organization = "Rutgers University"
   organization_url = ""
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
