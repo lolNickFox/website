@@ -3,7 +3,7 @@
 date = "2017-08-13"
 
 # Project title.
-title = "Maternal Immune Activation and Behavioral Outcomes in Adult Offspring"
+title = "2: Maternal Immune Activation and Behavioral Outcomes in Adult Offspring"
 
 # Project summary to display on homepage.
 summary = "Studying how maternal illness affects fetal neurodevelopment and leads to behavioral abnormailites in adult offspring."

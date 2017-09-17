@@ -3,7 +3,7 @@
 date = "2017-08-13"
 
 # Project title.
-title = "Measuring the Size of Hidden Populations"
+title = "1: Measuring the Size of Hidden Populations"
 
 # Project summary to display on homepage.
 summary = "How do you count people who avoid being counted?"
