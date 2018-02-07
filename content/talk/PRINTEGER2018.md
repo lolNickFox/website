@@ -23,7 +23,7 @@ caption = ""
 
 In this talk, I summarize the current replication crisis in psychology, with a focus on the behaviors that may underlie the increased false positives in the scientific literature.  These behaviors, often called "questionable research practices" (or QRPs for short) are being used by some number of psychologists, though that prevalence is contested.  While some researchers believe over 60% of psychologists may be using these behaviors, others believe it is below 10%.  Here, I show the results from my most recent work in estimating the prevalence of QRP users, focusing on those psychologists using at least one QRP in the last 12 months.  
 
-It is the first time the Generalized Network Scale Up Method (GNSUM) has been used to measure this population, and it generates an estimate of approximately 24% of psychologists have used at least one QRP in the past 12 months (12/16 through 12/17).
+It is the first time the Generalized Network Scale Up Method (GNSUM) has been used to measure this population, and it generates an estimate of approximately 24% of psychologists have used at least one QRP in the past 12 months (December 2016 through December 2017).
 
 This work is in preperation for an upcoming publication.  The slides from this talk will be available soon.
 
