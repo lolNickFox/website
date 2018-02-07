@@ -5,7 +5,16 @@
     
     <url>
     
-      <loc>https://nickfox.netlify.com/publication/justify_alpha/</loc>
+      <loc>/talk/printeger2018/</loc>
+      <lastmod>2018-02-06T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/justify_alpha/</loc>
       <lastmod>2017-09-18T00:00:00+00:00</lastmod>
     </url>
     
@@ -14,7 +23,7 @@
     
     <url>
     
-      <loc>https://nickfox.netlify.com/post/tone/</loc>
+      <loc>/post/tone/</loc>
       <lastmod>2017-08-28T00:00:00+00:00</lastmod>
     </url>
     
@@ -23,7 +32,7 @@
     
     <url>
     
-      <loc>https://nickfox.netlify.com/post/trump_tweets/</loc>
+      <loc>/post/trump_tweets/</loc>
       <lastmod>2017-08-15T00:00:00+00:00</lastmod>
     </url>
     
@@ -32,7 +41,7 @@
     
     <url>
     
-      <loc>https://nickfox.netlify.com/project/social-networks/</loc>
+      <loc>/project/social-networks/</loc>
       <lastmod>2017-08-13T00:00:00+00:00</lastmod>
     </url>
     
@@ -41,7 +50,7 @@
     
     <url>
     
-      <loc>https://nickfox.netlify.com/project/mia/</loc>
+      <loc>/project/mia/</loc>
       <lastmod>2017-08-13T00:00:00+00:00</lastmod>
     </url>
     
@@ -50,7 +59,7 @@
     
     <url>
     
-      <loc>https://nickfox.netlify.com/post/immunology_degrees_of_freedom/</loc>
+      <loc>/post/immunology_degrees_of_freedom/</loc>
       <lastmod>2017-08-03T00:00:00+00:00</lastmod>
     </url>
     
@@ -59,7 +68,7 @@
     
     <url>
     
-      <loc>https://nickfox.netlify.com/talk/sips2017/</loc>
+      <loc>/talk/sips2017/</loc>
       <lastmod>2017-08-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -68,7 +77,7 @@
     
     <url>
     
-      <loc>https://nickfox.netlify.com/post/free_speech_net_neutrality/</loc>
+      <loc>/post/free_speech_net_neutrality/</loc>
       <lastmod>2017-07-26T00:00:00+00:00</lastmod>
     </url>
     
@@ -77,7 +86,7 @@
     
     <url>
     
-      <loc>https://nickfox.netlify.com/tags/academic/</loc>
+      <loc>/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -86,7 +95,7 @@
     
     <url>
     
-      <loc>https://nickfox.netlify.com/post/</loc>
+      <loc>/post/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -95,7 +104,7 @@
     
     <url>
     
-      <loc>https://nickfox.netlify.com/publication/</loc>
+      <loc>/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -104,7 +113,7 @@
     
     <url>
     
-      <loc>https://nickfox.netlify.com/writing-markdown-latex/</loc>
+      <loc>/writing-markdown-latex/</loc>
       <lastmod>2016-04-20T10:00:00+00:00</lastmod>
     </url>
     
@@ -113,7 +122,7 @@
     
     <url>
     
-      <loc>https://nickfox.netlify.com/person-re-identification/</loc>
+      <loc>/person-re-identification/</loc>
       <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -122,7 +131,7 @@
     
     <url>
     
-      <loc>https://nickfox.netlify.com/publication_types/2/</loc>
+      <loc>/publication_types/2/</loc>
       <lastmod>2017-09-18T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -132,7 +141,7 @@
     
     <url>
     
-      <loc>https://nickfox.netlify.com/tags/behavioral-neuroscience/</loc>
+      <loc>/tags/behavioral-neuroscience/</loc>
       <lastmod>2017-08-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -142,7 +151,7 @@
     
     <url>
     
-      <loc>https://nickfox.netlify.com/categories/</loc>
+      <loc>/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -151,7 +160,7 @@
     
     <url>
     
-      <loc>https://nickfox.netlify.com/tags/degrees-of-freedom/</loc>
+      <loc>/tags/degrees-of-freedom/</loc>
       <lastmod>2017-08-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -161,7 +170,7 @@
     
     <url>
     
-      <loc>https://nickfox.netlify.com/tags/free-speech/</loc>
+      <loc>/tags/free-speech/</loc>
       <lastmod>2017-07-26T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -171,7 +180,7 @@
     
     <url>
     
-      <loc>https://nickfox.netlify.com/tags/hidden-populations/</loc>
+      <loc>/tags/hidden-populations/</loc>
       <lastmod>2017-08-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -181,7 +190,7 @@
     
     <url>
     
-      <loc>https://nickfox.netlify.com/tags/immunology/</loc>
+      <loc>/tags/immunology/</loc>
       <lastmod>2017-08-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -191,7 +200,7 @@
     
     <url>
     
-      <loc>https://nickfox.netlify.com/tags/maternal-immune-activation/</loc>
+      <loc>/tags/maternal-immune-activation/</loc>
       <lastmod>2017-08-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -201,7 +210,7 @@
     
     <url>
     
-      <loc>https://nickfox.netlify.com/tags/mia/</loc>
+      <loc>/tags/mia/</loc>
       <lastmod>2017-08-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -211,7 +220,7 @@
     
     <url>
     
-      <loc>https://nickfox.netlify.com/tags/net-neutrality/</loc>
+      <loc>/tags/net-neutrality/</loc>
       <lastmod>2017-07-26T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -221,7 +230,7 @@
     
     <url>
     
-      <loc>https://nickfox.netlify.com/</loc>
+      <loc>/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -231,7 +240,7 @@
     
     <url>
     
-      <loc>https://nickfox.netlify.com/tags/open-science/</loc>
+      <loc>/tags/open-science/</loc>
       <lastmod>2017-08-28T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -241,7 +250,7 @@
     
     <url>
     
-      <loc>https://nickfox.netlify.com/project/</loc>
+      <loc>/project/</loc>
       <lastmod>2017-08-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -251,7 +260,7 @@
     
     <url>
     
-      <loc>https://nickfox.netlify.com/publication_types/</loc>
+      <loc>/publication_types/</loc>
       <lastmod>2017-09-18T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -261,7 +270,7 @@
     
     <url>
     
-      <loc>https://nickfox.netlify.com/tags/questionable-research-practices/</loc>
+      <loc>/tags/questionable-research-practices/</loc>
       <lastmod>2017-08-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -271,7 +280,7 @@
     
     <url>
     
-      <loc>https://nickfox.netlify.com/tags/r/</loc>
+      <loc>/tags/r/</loc>
       <lastmod>2017-08-28T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -281,8 +290,8 @@
     
     <url>
     
-      <loc>https://nickfox.netlify.com/talk/</loc>
-      <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+      <loc>/talk/</loc>
+      <lastmod>2018-02-06T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -290,7 +299,7 @@
     
     <url>
     
-      <loc>https://nickfox.netlify.com/tags/rtweet/</loc>
+      <loc>/tags/rtweet/</loc>
       <lastmod>2017-08-28T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -300,7 +309,7 @@
     
     <url>
     
-      <loc>https://nickfox.netlify.com/tags/social-networks/</loc>
+      <loc>/tags/social-networks/</loc>
       <lastmod>2017-08-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -310,7 +319,7 @@
     
     <url>
     
-      <loc>https://nickfox.netlify.com/tags/</loc>
+      <loc>/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -320,7 +329,7 @@
     
     <url>
     
-      <loc>https://nickfox.netlify.com/tags/tone/</loc>
+      <loc>/tags/tone/</loc>
       <lastmod>2017-08-28T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -330,7 +339,7 @@
     
     <url>
     
-      <loc>https://nickfox.netlify.com/tags/twitter/</loc>
+      <loc>/tags/twitter/</loc>
       <lastmod>2017-08-28T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>

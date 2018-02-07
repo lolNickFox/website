@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Science on Nicholas Fox</title>
-    <link>https://nickfox.netlify.com/tags/open-science/</link>
+    <link>/tags/open-science/</link>
     <description>Recent content in Open Science on Nicholas Fox</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>A Data-Driven Look at Tone: Part 1</title>
-      <link>https://nickfox.netlify.com/post/tone/</link>
+      <link>/post/tone/</link>
       <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://nickfox.netlify.com/post/tone/</guid>
+      <guid>/post/tone/</guid>
       <description>&lt;!DOCTYPE html&gt;
 
 &lt;html xmlns=&#34;http://www.w3.org/1999/xhtml&#34;&gt;

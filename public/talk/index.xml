@@ -2,20 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Nicholas Fox</title>
-    <link>https://nickfox.netlify.com/talk/</link>
+    <link>/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on Nicholas Fox</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Nicholas Fox</copyright>
-    <lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Feb 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="/talk/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Estimating the Prevalence of Questionable Research Practices: A Social Network Approach</title>
+      <link>/talk/printeger2018/</link>
+      <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/printeger2018/</guid>
+      <description>&lt;p&gt;In this talk, I summarize the current replication crisis in psychology, with a focus on the behaviors that may underlie the increased false positives in the scientific literature.  These behaviors, often called &amp;ldquo;questionable research practices&amp;rdquo; (or QRPs for short) are being used by some number of psychologists, though that prevalence is contested.  While some researchers believe over 60% of psychologists may be using these behaviors, others believe it is below 10%.  Here, I show the results from my most recent work in estimating the prevalence of QRP users, focusing on those psychologists using at least one QRP in the last 12 months.&lt;/p&gt;
+
+&lt;p&gt;It is the first time the Generalized Network Scale Up Method (GNSUM) has been used to measure this population, as estimates that approximately 24% of psychologists have used at least one QRP in the past 12 months.&lt;/p&gt;
+
+&lt;p&gt;This work is in preperation for an upcoming publication.  The slides from this talk will be available soon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Cash Rules Everything Around Me: R01 Funding &amp; the Diversity of Ideas</title>
-      <link>https://nickfox.netlify.com/talk/sips2017/</link>
+      <link>/talk/sips2017/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://nickfox.netlify.com/talk/sips2017/</guid>
+      <guid>/talk/sips2017/</guid>
       <description>&lt;p&gt;In this talk, I cover some of the trends in R01 funding from 2000 to 2014.  Of interest is the effect of the American Recovery and Reinvestment Act (ARRA), also known as The 2009 Stimulus.  As an effort to reduce the negative economic impact of the 2008 Recession, the federal government increased the budgets of many public institutions, including the National Institutes of Health (NIH).  In this talk, I present how ARRA dollars changed the distribution of R01 funds to downstream scientists. I conclude with recommendations for diversifying R01 funding to more scientists, spreading the money across more labs to decrease waste spending and increase diversity of ideas.&lt;/p&gt;
 
 &lt;p&gt;This work is in preperation for an upcoming publication.&lt;/p&gt;
