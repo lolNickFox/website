@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Net Neutrality on Nicholas Fox</title>
-    <link>/tags/net-neutrality/</link>
+    <link>https://nickfox.netlify.com/tags/net-neutrality/</link>
     <description>Recent content in Net Neutrality on Nicholas Fox</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,11 +12,11 @@
     
     <item>
       <title>The hypocritical silence of “free speech” academics on net neutrality</title>
-      <link>/post/free_speech_net_neutrality/</link>
+      <link>https://nickfox.netlify.com/post/free_speech_net_neutrality/</link>
       <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/free_speech_net_neutrality/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/img/marketplace_ideas_comic.png&#34; alt=&#34;marketplace_of_ideas&#34; /&gt;
+      <guid>https://nickfox.netlify.com/post/free_speech_net_neutrality/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://nickfox.netlify.com/img/marketplace_ideas_comic.png&#34; alt=&#34;marketplace_of_ideas&#34; /&gt;
 &lt;em&gt;Image from Cagle.com - Kevin Siers, Charlotte Observer 2015&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Recently there have been several highly publicized protests of speakers on college campuses. Most, but not all, of these speakers have been associated with conservative politics or viewpoints that challenge current ideas on social justice (Ann Coulter, Milo Yiannopoulos, Charles Murray, etc). At Heterodox Academy and across most mainstream news outlets, academics and college administrators have spoken up about the possible threats to free speech on campus posed by student groups protesting to silence these speakers. They argue that the best way to combat speech you do not agree with is more speech, and that when those speakers are silenced, their ideas are never openly challenged.&lt;/p&gt;

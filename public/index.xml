@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nicholas Fox on Nicholas Fox</title>
-    <link>/</link>
+    <link>https://nickfox.netlify.com/</link>
     <description>Recent content in Nicholas Fox on Nicholas Fox</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,19 +12,19 @@
     
     <item>
       <title>Justify Your Alpha: A Response to &#34;Redefine Statistical Significance&#34;</title>
-      <link>/publication/justify_alpha/</link>
+      <link>https://nickfox.netlify.com/publication/justify_alpha/</link>
       <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/justify_alpha/</guid>
+      <guid>https://nickfox.netlify.com/publication/justify_alpha/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Data-Driven Look at Tone: Part 1</title>
-      <link>/post/tone/</link>
+      <link>https://nickfox.netlify.com/post/tone/</link>
       <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/tone/</guid>
+      <guid>https://nickfox.netlify.com/post/tone/</guid>
       <description>&lt;!DOCTYPE html&gt;
 
 &lt;html xmlns=&#34;http://www.w3.org/1999/xhtml&#34;&gt;
@@ -232,10 +232,10 @@ $(document).ready(function () {
     
     <item>
       <title>The Sentiment of Tweets Directed at @realDonaldTrump</title>
-      <link>/post/trump_tweets/</link>
+      <link>https://nickfox.netlify.com/post/trump_tweets/</link>
       <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/trump_tweets/</guid>
+      <guid>https://nickfox.netlify.com/post/trump_tweets/</guid>
       <description>&lt;!DOCTYPE html&gt;
 
 &lt;html xmlns=&#34;http://www.w3.org/1999/xhtml&#34;&gt;
@@ -447,10 +447,10 @@ $(document).ready(function () {
     
     <item>
       <title>1: Measuring the Size of Hidden Populations</title>
-      <link>/project/social-networks/</link>
+      <link>https://nickfox.netlify.com/project/social-networks/</link>
       <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/social-networks/</guid>
+      <guid>https://nickfox.netlify.com/project/social-networks/</guid>
       <description>&lt;p&gt;Many people live with stigma, or some trait that devalues them in the view of others.  For some, this stigma can be concealed - sexual orientation or smoking can both be stigmatizing but can be kept secret from other people.  However, there are many times where it is important to know how many people identify with a particular stigma.  For example, drug users who use needles are at an increased risk for HIV and other bloodborne pathogens.  Sex workers are at an increased risk for HIV, sexually transmitted infection, and personal violence.&lt;/p&gt;
 
 &lt;p&gt;When asked directly, individuals with concealable stigma have the option of either concealing their identity (denying their identity when asked) or reveal their identity.  This decision to conceal or reveal is a complex one that entails how likely it is they will be &amp;ldquo;outed&amp;rdquo; by their own behaviors or somebody else, the perceived repercussions of having their identity revealed, and the prospect of social support.&lt;/p&gt;
@@ -463,10 +463,10 @@ $(document).ready(function () {
     
     <item>
       <title>2: Maternal Immune Activation and Behavioral Outcomes in Adult Offspring</title>
-      <link>/project/mia/</link>
+      <link>https://nickfox.netlify.com/project/mia/</link>
       <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/mia/</guid>
+      <guid>https://nickfox.netlify.com/project/mia/</guid>
       <description>&lt;p&gt;How does the mother&amp;rsquo;s immune system influence the developing offspring?  What role do T cells play? These were the driving question behind my Master&amp;rsquo;s degree research.  Here, we experimentally activated the T cells of pregnant mice mid-gestation and monitored the offspring as they grew up into adulthood.  When adults, we tested their spatial learning behaviors.&lt;/p&gt;
 
 &lt;p&gt;We found that offspring from mothers who were sick during pregnancy had reduced success in using spatial memory to navigate a maze.  Offspring from mothers who were given saline during pregnancy completed the maze faster on every day of testing.  While experimentally-treated offspring did learn (as seen by increasing success with practice), they were always worse compared to the control-treated offspring.&lt;/p&gt;
@@ -477,11 +477,11 @@ $(document).ready(function () {
     
     <item>
       <title>Immunology Has A Problem With Researcher Degrees of Freedom</title>
-      <link>/post/immunology_degrees_of_freedom/</link>
+      <link>https://nickfox.netlify.com/post/immunology_degrees_of_freedom/</link>
       <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/immunology_degrees_of_freedom/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/img/findings.jpg&#34; alt=&#34;findings&#34; /&gt;
+      <guid>https://nickfox.netlify.com/post/immunology_degrees_of_freedom/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://nickfox.netlify.com/img/findings.jpg&#34; alt=&#34;findings&#34; /&gt;
 &lt;em&gt;Two scientists performing science. from the-scientist.com, July 2011&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;I just got back from the annual meeting of the Society for the Improvement of Psychological Science (SIPS) and had a great time talking to a number of psychologists looking to help promote open, reproducible science. It really got me thinking about all the different kinds of science I’ve been a part of in my undergraduate and graduate career.&lt;/p&gt;
@@ -492,7 +492,7 @@ $(document).ready(function () {
 
 &lt;p&gt;But how can one observe the activation of these cells? This is where a special type of measurement tool comes in: the flow cytometer. Flow cytometry is a process that allows a research to “scan” individual cells for surface receptors or proteins of interest. These can be used to identify specific cell populations. Cells that have a T Cell Receptor (TCR) and the CD3 surface protein are different than those that have a TCR, CD3, and the CD4 surface protein. By making scatter plots like the one below (where one axis is the CD3 protein and the other axis is the CD4 protein), researchers can identify cell populations of interest.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/img/flow_sample.png&#34; alt=&#34;flow_sample&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nickfox.netlify.com/img/flow_sample.png&#34; alt=&#34;flow_sample&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Let’s say you are only interested in cells that are expressing CD3 but not expressing CD4. You may want to further explore the characteristics of this population (for example, maybe you want to see if they are more activated in Type 1 diabetics compared to non-diabetics). How do you select only this population? You could use some method of k-means clustering or k-nearest neighbors…or you could just draw a box around it.&lt;/p&gt;
 
@@ -500,13 +500,13 @@ $(document).ready(function () {
 
 &lt;p&gt;Here is an example of when this can throw results into question:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/img/immunofigure_main.png&#34; alt=&#34;immunofigure_main&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nickfox.netlify.com/img/immunofigure_main.png&#34; alt=&#34;immunofigure_main&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;On top are 3 sets of flow cytometry scatter plots, showing a comparison of the percent of cells that are CD25- (they don’t have that protein), Ly5.2+, CD4+, FoxP3+. This is a particular type of immune cell, and the point from this figure is that there are more of this cell type in the lamina propria (LP) and few in Peyer’s patches (PP) and the spleen (SP). The bottom shows the average percent for each of 6 mice per group (each point represents the percent of FoxP3+ cells per animal in the CD25-, Ly5.2+, CD4+ population(the boxed areas from the top)).&lt;/p&gt;
 
 &lt;p&gt;I was curious if they were using the same boxes to inscribe these populations, so I stacked two of them on top of each other. Here is the result:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/img/immunofigure.jpg&#34; alt=&#34;immunofigure&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nickfox.netlify.com/img/immunofigure.jpg&#34; alt=&#34;immunofigure&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Unfortunately, this paper does not describe the decision making process in generating these selection boxes for these cell populations. They also did not indicate how many cells were collected from each animal, nor publish the scatter plots for the other 5 animals per each group. An obvious problem from this approach is selection bias. Researchers select the most obvious grouping of cells given the density plot. Whether or not this is the most correct approach is not accounted for, and many cells of interest may be lost because they did not fall perfectly with other cells.&lt;/p&gt;
 
@@ -528,10 +528,10 @@ $(document).ready(function () {
     
     <item>
       <title>Cash Rules Everything Around Me: R01 Funding &amp; the Diversity of Ideas</title>
-      <link>/talk/sips2017/</link>
+      <link>https://nickfox.netlify.com/talk/sips2017/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/talk/sips2017/</guid>
+      <guid>https://nickfox.netlify.com/talk/sips2017/</guid>
       <description>&lt;p&gt;In this talk, I cover some of the trends in R01 funding from 2000 to 2014.  Of interest is the effect of the American Recovery and Reinvestment Act (ARRA), also known as The 2009 Stimulus.  As an effort to reduce the negative economic impact of the 2008 Recession, the federal government increased the budgets of many public institutions, including the National Institutes of Health (NIH).  In this talk, I present how ARRA dollars changed the distribution of R01 funds to downstream scientists. I conclude with recommendations for diversifying R01 funding to more scientists, spreading the money across more labs to decrease waste spending and increase diversity of ideas.&lt;/p&gt;
 
 &lt;p&gt;This work is in preperation for an upcoming publication.&lt;/p&gt;
@@ -540,11 +540,11 @@ $(document).ready(function () {
     
     <item>
       <title>The hypocritical silence of “free speech” academics on net neutrality</title>
-      <link>/post/free_speech_net_neutrality/</link>
+      <link>https://nickfox.netlify.com/post/free_speech_net_neutrality/</link>
       <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/free_speech_net_neutrality/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/img/marketplace_ideas_comic.png&#34; alt=&#34;marketplace_of_ideas&#34; /&gt;
+      <guid>https://nickfox.netlify.com/post/free_speech_net_neutrality/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://nickfox.netlify.com/img/marketplace_ideas_comic.png&#34; alt=&#34;marketplace_of_ideas&#34; /&gt;
 &lt;em&gt;Image from Cagle.com - Kevin Siers, Charlotte Observer 2015&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Recently there have been several highly publicized protests of speakers on college campuses. Most, but not all, of these speakers have been associated with conservative politics or viewpoints that challenge current ideas on social justice (Ann Coulter, Milo Yiannopoulos, Charles Murray, etc). At Heterodox Academy and across most mainstream news outlets, academics and college administrators have spoken up about the possible threats to free speech on campus posed by student groups protesting to silence these speakers. They argue that the best way to combat speech you do not agree with is more speech, and that when those speakers are silenced, their ideas are never openly challenged.&lt;/p&gt;
@@ -565,10 +565,10 @@ $(document).ready(function () {
     
     <item>
       <title>Writing content with Markdown, LaTeX, and Shortcodes</title>
-      <link>/writing-markdown-latex/</link>
+      <link>https://nickfox.netlify.com/writing-markdown-latex/</link>
       <pubDate>Wed, 20 Apr 2016 10:00:00 +0000</pubDate>
       
-      <guid>/writing-markdown-latex/</guid>
+      <guid>https://nickfox.netlify.com/writing-markdown-latex/</guid>
       <description>&lt;p&gt;Content can be written using &lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt;, &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX math&lt;/a&gt;, and &lt;a href=&#34;http://gohugo.io/extras/shortcodes/&#34; target=&#34;_blank&#34;&gt;Hugo Shortcodes&lt;/a&gt;. Additionally, HTML may be used for advanced formatting. This article gives an overview of the most common formatting options.&lt;/p&gt;
 
 &lt;h2 id=&#34;sub-headings&#34;&gt;Sub-headings&lt;/h2&gt;
@@ -917,10 +917,10 @@ Here&#39;s some important information...
     
     <item>
       <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>/person-re-identification/</link>
+      <link>https://nickfox.netlify.com/person-re-identification/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>/person-re-identification/</guid>
+      <guid>https://nickfox.netlify.com/person-re-identification/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>

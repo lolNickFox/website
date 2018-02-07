@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Immunology on Nicholas Fox</title>
-    <link>/tags/immunology/</link>
+    <link>https://nickfox.netlify.com/tags/immunology/</link>
     <description>Recent content in Immunology on Nicholas Fox</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,11 +12,11 @@
     
     <item>
       <title>Immunology Has A Problem With Researcher Degrees of Freedom</title>
-      <link>/post/immunology_degrees_of_freedom/</link>
+      <link>https://nickfox.netlify.com/post/immunology_degrees_of_freedom/</link>
       <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/immunology_degrees_of_freedom/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/img/findings.jpg&#34; alt=&#34;findings&#34; /&gt;
+      <guid>https://nickfox.netlify.com/post/immunology_degrees_of_freedom/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://nickfox.netlify.com/img/findings.jpg&#34; alt=&#34;findings&#34; /&gt;
 &lt;em&gt;Two scientists performing science. from the-scientist.com, July 2011&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;I just got back from the annual meeting of the Society for the Improvement of Psychological Science (SIPS) and had a great time talking to a number of psychologists looking to help promote open, reproducible science. It really got me thinking about all the different kinds of science I’ve been a part of in my undergraduate and graduate career.&lt;/p&gt;
@@ -27,7 +27,7 @@
 
 &lt;p&gt;But how can one observe the activation of these cells? This is where a special type of measurement tool comes in: the flow cytometer. Flow cytometry is a process that allows a research to “scan” individual cells for surface receptors or proteins of interest. These can be used to identify specific cell populations. Cells that have a T Cell Receptor (TCR) and the CD3 surface protein are different than those that have a TCR, CD3, and the CD4 surface protein. By making scatter plots like the one below (where one axis is the CD3 protein and the other axis is the CD4 protein), researchers can identify cell populations of interest.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/img/flow_sample.png&#34; alt=&#34;flow_sample&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nickfox.netlify.com/img/flow_sample.png&#34; alt=&#34;flow_sample&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Let’s say you are only interested in cells that are expressing CD3 but not expressing CD4. You may want to further explore the characteristics of this population (for example, maybe you want to see if they are more activated in Type 1 diabetics compared to non-diabetics). How do you select only this population? You could use some method of k-means clustering or k-nearest neighbors…or you could just draw a box around it.&lt;/p&gt;
 
@@ -35,13 +35,13 @@
 
 &lt;p&gt;Here is an example of when this can throw results into question:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/img/immunofigure_main.png&#34; alt=&#34;immunofigure_main&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nickfox.netlify.com/img/immunofigure_main.png&#34; alt=&#34;immunofigure_main&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;On top are 3 sets of flow cytometry scatter plots, showing a comparison of the percent of cells that are CD25- (they don’t have that protein), Ly5.2+, CD4+, FoxP3+. This is a particular type of immune cell, and the point from this figure is that there are more of this cell type in the lamina propria (LP) and few in Peyer’s patches (PP) and the spleen (SP). The bottom shows the average percent for each of 6 mice per group (each point represents the percent of FoxP3+ cells per animal in the CD25-, Ly5.2+, CD4+ population(the boxed areas from the top)).&lt;/p&gt;
 
 &lt;p&gt;I was curious if they were using the same boxes to inscribe these populations, so I stacked two of them on top of each other. Here is the result:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/img/immunofigure.jpg&#34; alt=&#34;immunofigure&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nickfox.netlify.com/img/immunofigure.jpg&#34; alt=&#34;immunofigure&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Unfortunately, this paper does not describe the decision making process in generating these selection boxes for these cell populations. They also did not indicate how many cells were collected from each animal, nor publish the scatter plots for the other 5 animals per each group. An obvious problem from this approach is selection bias. Researchers select the most obvious grouping of cells given the density plot. Whether or not this is the most correct approach is not accounted for, and many cells of interest may be lost because they did not fall perfectly with other cells.&lt;/p&gt;
 
