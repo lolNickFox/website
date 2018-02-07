@@ -3,11 +3,11 @@ date = "2018-02-06"
 title = "Estimating the Prevalence of Questionable Research Practices: A Social Network Approach"
 abstract = ""
 abstract_short = ""
-event = "Promoting Integrity as an Integral Dimension of Excellence in Research - PRINTEGER 2018"
+event = "Promoting Integrity as an Integral Dimension of Excellence in Research"
 event_url = "https://printeger.eu"
 location = "Bonn, Germany"
 
-selected = false
+selected = true
 math = false
 
 url_pdf = ""
