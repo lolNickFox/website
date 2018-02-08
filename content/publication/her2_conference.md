@@ -1,5 +1,5 @@
 +++
-abstract = "In the adjuvant setting, patients with HER2 breast cancer treated with trastuzumab and chemotherapy have superior survival compared to patients treated with chemotherapy alone."
+abstract = "In the adjuvant setting, patients with HER2 breast cancer treated with trastuzumab and chemotherapy have superior survival compared to patients treated with chemotherapy alone. We previously showed that trastuzumab and chemotherapy induces HER2-specific antibodies which correlate with response to therapy in patients with HER2+ metastatic breast cancer. It remained unclear from those studies, however, whether the HER2-specific immunity played a role and if antibody immunity was associated with improved disease free survival in the adjuvant setting. In the present study, we addressed these questions by analyzing sera samples from a subset of patients enrolled in the NCCTG adjuvant trial, N9831, which includes an arm (Arm A) in which trastuzumab was not used. Arms B and C received trastuzumab sequentially or concurrently to chemotherapy, respectively"
 
 authors = ["K. L. Knutson, E.A. Perez, K.V. Ballman, C.L. Erskine, N.W.Fox, C. McCarl, N. Norton, S.V. Sumrall, D.W. Northfelt, W. Tan, C.J. Calfa, M.D. Pegram, R. Clynes"]
 date = "2013-05-31"
