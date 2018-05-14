@@ -19,7 +19,8 @@ I typically teach a course every Fall and Spring semester, and have taught most 
 I am currently teaching the following course at Rutgers University:
 
 **- Psy200 - Quantitative Methods in Psychology** <br>
-<a href="https://youtu.be/GEifqfY28tI">Midterm 1 Review (S2018)</a>
+<a href="https://youtu.be/GEifqfY28tI">Midterm 1 Review (S2018)</a> --- <a href="https://youtu.be/LOBjmLuEITM">Midterm 2 Review (S2018)</a> --- 
+<a href="https://youtu.be/_RPKAraMJlQ">Final Exam Review (S2018)</a> <br>
 
 
 I've previously taught the following courses:
