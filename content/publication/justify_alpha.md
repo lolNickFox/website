@@ -1,7 +1,7 @@
 +++
 abstract = "In response to recommendations to redefine statistical significance to p ≤ .005, we propose that researchers should transparently report and justify all choices they make when designing a study, including the alpha level."
 
-authors = ["D Lakens", "...", "NW Fox", "...", "RW Zwaan"]
+authors = ["Daniel Lakens", "...", "Nicholas Fox", "...", "Rolf Zwaan"]
 date = "2017-09-18"
 image_preview = ""
 math = true
