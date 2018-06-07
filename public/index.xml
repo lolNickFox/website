@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Maternal Immune Activation with Staphylococcal Enterotoxin A Produces Unique Behavioral Changes in C57BL/6 Mouse Offspring</title>
+      <link>/publication/maternal_immune/</link>
+      <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/maternal_immune/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generation of HER2-Specific Antibody Immunity During Trastuzumab Adjuvant Therapy Associates with Reduced Relapse in Resected HER2 Breast Cancer</title>
+      <link>/publication/her2_conference/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/her2_conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Estimating the Prevalence of Questionable Research Practices: A Social Network Approach</title>
       <link>/talk/printeger2018/</link>
       <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
@@ -937,15 +955,6 @@ Here&#39;s some important information...
       <guid>/person-re-identification/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Generation of HER2-Specific Antibody Immunity During Trastuzumab Adjuvant Therapy Associates with Reduced Relapse in Resected HER2 Breast Cancer</title>
-      <link>/publication/her2_conference/</link>
-      <pubDate>Fri, 31 May 2013 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/her2_conference/</guid>
-      <description></description>
     </item>
     
   </channel>

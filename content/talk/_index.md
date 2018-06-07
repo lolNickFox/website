@@ -1,5 +1,5 @@
 +++
-title = "Recent & Upcoming Talks"
+title = "Recent Talks"
 date = ""
 math = false
 highlight = false

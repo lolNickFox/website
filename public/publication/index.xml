@@ -11,20 +11,29 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Justify Your Alpha</title>
-      <link>/publication/justify_alpha/</link>
-      <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
+      <title>Maternal Immune Activation with Staphylococcal Enterotoxin A Produces Unique Behavioral Changes in C57BL/6 Mouse Offspring</title>
+      <link>/publication/maternal_immune/</link>
+      <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/justify_alpha/</guid>
+      <guid>/publication/maternal_immune/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generation of HER2-Specific Antibody Immunity During Trastuzumab Adjuvant Therapy Associates with Reduced Relapse in Resected HER2 Breast Cancer</title>
       <link>/publication/her2_conference/</link>
-      <pubDate>Fri, 31 May 2013 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/publication/her2_conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Justify Your Alpha</title>
+      <link>/publication/justify_alpha/</link>
+      <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/justify_alpha/</guid>
       <description></description>
     </item>
     
