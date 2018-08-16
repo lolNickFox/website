@@ -14,8 +14,8 @@ weight = 1
   interests = [
     "Social Networks",
     "Hidden Populations",
-    "Psychoneuroimmunology",
-    "Open & Reproducible Science"
+    "Open & Reproducible Science",
+    "Psychoneuroimmunology"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -38,4 +38,4 @@ weight = 1
 +++
 
 
-I am a PhD student at Rutgers University currently working on exploring academic social networks and how identifying information is transmitted between individuals.  I am also interested in how the maternal immune system can affect fetal neurodevelopment and downstream, adult offspring behavior.
+I am a PhD candidate at Rutgers University currently working on exploring academic social networks and how identifying information is transmitted between individuals.  I am also a methodologist with the Psychological Science Accelerator.
