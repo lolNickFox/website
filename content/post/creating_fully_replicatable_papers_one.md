@@ -2,11 +2,12 @@
 date = "2018-08-16"
 draft = false
 tags = ["R", "RMarkdown", "tutorials", "replication"]
-title = "Creating a fully replicatable paper: a tutorial"
+title = "Creating Reproducible Scientific Papers in R: a tutorial series"
 math = false
 summary = """
-I recently went through all the steps on creating a paper that will completely replicate itself on command using R and RMarkdown.  I want to share what I learned and hopefully increase the practice of writing fully replicatable papers.
+I recently went through all the steps to create a paper that will completely reproduce itself on command using R, RMarkdown, and Papaja.  I want to share what I learned and hopefully increase the practice of writing fully reproducible papers. It's not that hard!
 """
++++
 
 I just preprinted my first 1st-author paper. Exciting! You can find it here: <a href="https://psyarxiv.com/3v7hx/" target="_blank">How Many Psychologists Use Questionable Research Practices?</a>
 I used this paper as a project to learn how to create a fully reproducible paper.  By that, I mean a person could take my data files and my "paper" file and fully reproduce the paper (including analyses, figures, tables, etc) and the final document all in one step.  The special part of this process is the "paper" file.  I used R, RStudio, RMarkdown, and a package called Papaja (Aust & Barth 2016) to create a file that contains text, analyses, and figure creation all in one place.  There are no image files or pre-made tables...the whole process of data analysis, figure/table creation, and manuscript preperation happens in the same place at the same time.
@@ -15,5 +16,6 @@ I originally was going to write a set of blog posts about the process, but felt 
 You can find the playlist of videos on my YouTube page here: <a href="https://www.youtube.com/watch?v=MxCnnqpnN5Y&list=PLmvNihjFsoM5hpQdqoI7onL4oXDSQ0ym8" target="_blank">Writing Reproducible Scientific Papers in R</a>
 
 I will be making 1-2 videos per week as we journey from download programs all the way through writing completely reproducible scientific papers.  You can do it! It just takes a little bit of practice to get comfortable with all of the steps involved, and I hope I can help with that!
+
 +++
 
