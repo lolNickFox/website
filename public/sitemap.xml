@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/post/writing-reproducible-scientific-papers-in-r-a-tutorial-series/</loc>
+      <lastmod>2018-08-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/creating_fully_replicatable_papers_one/</loc>
       <lastmod>2018-08-16T00:00:00+00:00</lastmod>
     </url>
@@ -304,8 +313,28 @@
     
     <url>
     
+      <loc>/tags/papaja/</loc>
+      <lastmod>2018-08-16T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/project/</loc>
       <lastmod>2017-08-13T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/publication/</loc>
+      <lastmod>2018-08-16T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -346,16 +375,6 @@
     
       <loc>/talk/</loc>
       <lastmod>2018-02-06T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/replication/</loc>
-      <lastmod>2018-08-16T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -413,7 +432,7 @@
     
     <url>
     
-      <loc>/tags/tutorials/</loc>
+      <loc>/tags/tutorial/</loc>
       <lastmod>2018-08-16T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>

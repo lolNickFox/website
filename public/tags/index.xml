@@ -102,6 +102,24 @@
     </item>
     
     <item>
+      <title>Papaja</title>
+      <link>/tags/papaja/</link>
+      <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/papaja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publication</title>
+      <link>/tags/publication/</link>
+      <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Questionable Research Practices</title>
       <link>/tags/questionable-research-practices/</link>
       <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
@@ -120,29 +138,11 @@
     </item>
     
     <item>
-      <title>Replication</title>
-      <link>/tags/replication/</link>
-      <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/replication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Rmarkdown</title>
       <link>/tags/rmarkdown/</link>
       <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/rmarkdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rtweet</title>
-      <link>/tags/rtweet/</link>
-      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/rtweet/</guid>
       <description></description>
     </item>
     
