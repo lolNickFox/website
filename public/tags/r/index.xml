@@ -11,7 +11,7 @@
     <atom:link href="/tags/r/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Creating Reproducible Scientific Papers in R: a tutorial series</title>
+      <title>Creating Reproducible Scientific Papers in R: A Tutorial Series</title>
       <link>/post/creating_fully_replicatable_papers_one/</link>
       <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
       

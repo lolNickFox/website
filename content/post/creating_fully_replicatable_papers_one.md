@@ -2,7 +2,7 @@
 date = "2018-08-16"
 draft = false
 tags = ["R", "RMarkdown", "tutorials", "replication"]
-title = "Creating Reproducible Scientific Papers in R: a tutorial series"
+title = "Creating Reproducible Scientific Papers in R: A Tutorial Series"
 math = false
 summary = """
 I recently went through all the steps to create a paper that will completely reproduce itself on command using R, RMarkdown, and Papaja.  I want to share what I learned and hopefully increase the practice of writing fully reproducible papers. It's not that hard!
