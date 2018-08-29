@@ -21,7 +21,9 @@ url_video = ""
 name = "Preprint"
 url = "https://psyarxiv.com/3v7hx/"
 
-
+[[url_custom]]
+name = "OSF project page"
+url = "https://osf.io/2zwqf/"
 
 
 # Optional featured image (relative to `static/img/` folder).
