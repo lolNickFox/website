@@ -12,13 +12,18 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
+    "Open & Reproducible Science",
     "Social Networks",
     "Hidden Populations",
-    "Open & Reproducible Science",
     "Psychoneuroimmunology"
   ]
 
 # List your qualifications (such as academic degrees).
+
+[[education.courses]]
+  course = "PhD in Psychology (Social)"
+  institution = "Rutgers University"
+  year = 2019
 
 [[education.courses]]
   course = "MA in Psychology (Behavioral Neuroscience)"
@@ -38,4 +43,4 @@ weight = 1
 +++
 
 
-I am a PhD candidate at Rutgers University currently working on exploring academic social networks and how identifying information is transmitted between individuals.  I am also a methodologist with the Psychological Science Accelerator.
+I am a research scientist at the Center for Open Science currently working on the SCORE project.  I am also a methodologist with the Psychological Science Accelerator.
