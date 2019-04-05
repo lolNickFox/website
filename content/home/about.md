@@ -42,5 +42,4 @@ weight = 1
  
 +++
 
-
 I am a research scientist at the Center for Open Science currently working on the SCORE project.  I am also a methodologist with the Psychological Science Accelerator.
