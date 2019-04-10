@@ -13,6 +13,7 @@ weight = 1
 [interests]
   interests = [
     "Open & Reproducible Science",
+    "Metascience",
     "Social Networks",
     "Hidden Populations",
     "Psychoneuroimmunology"
@@ -42,4 +43,4 @@ weight = 1
  
 +++
 
-I am a research scientist at the Center for Open Science currently working on the SCORE project.  I am also a methodologist with the Psychological Science Accelerator.
+I am a research scientist at the Center for Open Science currently working on the SCORE project.  I am also a methodologist and metascientist with the Psychological Science Accelerator.
