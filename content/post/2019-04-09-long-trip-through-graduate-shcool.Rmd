@@ -1,8 +1,8 @@
 ---
 title: 'My Long, Strange Trip Through Graduate School'
 author: Nick Fox
-date: '2019-04-09'
-slug: becoming-doctor
+date: '2019-04-10'
+slug: trip-through-grad-school
 categories: []
 tags:
   - graduate school
