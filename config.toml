@@ -129,7 +129,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:nwf7@scarletmail.rutgers.edu"
+    link = "mailto:nick@cos.io"
 
   [[params.social]]
     icon = "twitter"
@@ -162,19 +162,19 @@ defaultContentLanguageInSubdir = false
   url = "#about"
   weight = 1
 
+  [[menu.main]]
+  name = "Posts"
+  url = "#posts"
+  weight = 2
+  
  [[menu.main]]
   name = "Publications"
   url = "#publications_selected"
-  weight = 2
+  weight = 3
   
  [[menu.main]]
   name = "Talks"
   url = "#talks"
-  weight = 3
-  
-  [[menu.main]]
-  name = "Posts"
-  url = "#posts"
   weight = 4
 
 [[menu.main]]
