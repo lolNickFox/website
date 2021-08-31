@@ -1,13 +1,14 @@
 ---
-title: 'Testing scientific paper formatting in iA Writer'
+title: 'Testing academic literature formatting using iA Writer'
 author: Nick Fox
 date: '2021-08-31'
-slug: publication-website-test
+slug: publication-test
 categories: []
 tags:
-  - [[blog]]
-  - [[publication]]
+  - publications
+  - testing
 ---
+
 # Testing scientific paper formatting in iA Writer
 
 ## Nicholas Fox<sup>1,2</sup>, Nathan Honeycutt<sup>1</sup>, & Lee Jussim<sup>1</sup>
