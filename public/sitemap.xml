@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/post/trip-through-grad-school/</loc>
+      <lastmod>2019-04-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/writing-reproducible-scientific-papers-in-r-a-tutorial-series/</loc>
       <lastmod>2018-08-16T00:00:00+00:00</lastmod>
     </url>
@@ -234,8 +243,38 @@
     
     <url>
     
+      <loc>/tags/drop-out/</loc>
+      <lastmod>2019-04-10T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/first-generation-college-student/</loc>
+      <lastmod>2019-04-10T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/free-speech/</loc>
       <lastmod>2017-07-26T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/graduate-school/</loc>
+      <lastmod>2019-04-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -256,6 +295,16 @@
     
       <loc>/tags/immunology/</loc>
       <lastmod>2017-08-03T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/masters/</loc>
+      <lastmod>2019-04-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -316,6 +365,16 @@
     
       <loc>/tags/papaja/</loc>
       <lastmod>2018-08-16T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/phd/</loc>
+      <lastmod>2019-04-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

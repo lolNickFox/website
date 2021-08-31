@@ -1,6 +1,6 @@
 baseurl = "https://nickfox.netlify.com/"  # End your URL with a `/` trailing slash.
 title = "Nicholas Fox"
-copyright = "&copy; 2017 Nicholas Fox"
+copyright = "&copy; 2019 Nicholas Fox"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -20,14 +20,14 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Nicholas Fox"
-  role = "PhD Candidate"
-  organization = "Rutgers University"
+  role = "Research Scientist"
+  organization = "Center for Open Science"
   organization_url = ""
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "nwf7@scarletmail.rutgers.edu"
+  email = "nick@cos.io"
   address = "Tillett Hall, room 429, Rutgers University, Piscataway, New Jersey, 08854, USA"
-  office_hours = "Thursdays 13:30 to 15:30 - Murray Hall Room 027 (College Ave Campus)"
+  #office_hours = "Thursdays 13:30 to 15:30 - Murray Hall Room 027 (College Ave Campus)"
   phone = ""
   skype = "nicholas.w.fox"
   telegram = ""
@@ -129,7 +129,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:nwf7@scarletmail.rutgers.edu"
+    link = "mailto:nick@cos.io"
 
   [[params.social]]
     icon = "twitter"
@@ -137,14 +137,21 @@ defaultContentLanguageInSubdir = false
     link = "//twitter.com/NickFoxstats"
 
   [[params.social]]
+    icon = "osf"
+    icon_pack = "ai"
+    link = "//osf.io/pnyji"
+
+  [[params.social]]
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/lolnickfox"
-  
+
   [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
     link = "//linkedin.com/in/nick-fox-24003536/"
+    
+
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
@@ -155,19 +162,19 @@ defaultContentLanguageInSubdir = false
   url = "#about"
   weight = 1
 
+  [[menu.main]]
+  name = "Posts"
+  url = "#posts"
+  weight = 2
+  
  [[menu.main]]
   name = "Publications"
   url = "#publications_selected"
-  weight = 2
+  weight = 3
   
  [[menu.main]]
   name = "Talks"
   url = "#talks"
-  weight = 3
-  
-  [[menu.main]]
-  name = "Posts"
-  url = "#posts"
   weight = 4
 
 [[menu.main]]

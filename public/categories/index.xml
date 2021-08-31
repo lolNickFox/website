@@ -6,8 +6,10 @@
     <description>Recent content in Categories on Nicholas Fox</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Nicholas Fox</copyright>
-    <atom:link href="/categories/" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2019 Nicholas Fox</copyright>
+    
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
     
   </channel>
 </rss>

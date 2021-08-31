@@ -14,15 +14,7 @@ weight = 60
 
 +++
 
-I typically teach a course every Fall and Spring semester, and have taught most summers since 2013.
-
-I am currently teaching the following course at Rutgers University:
-
-**- English 101 - Expository Writing** <br>
-
-
-
-I've previously taught the following courses:
+While I was a PhD student at Rutgers University, I taught at least one class per semester.  Here is the list of courses I taught during that time, with links to available review material.
 
 - Psy101 - Introduction to Psychology (Summer 2016, Fall 2016)
 - Psy200 - Quantitative Methods in Psychology (Spring 2017, Fall 2017, Spring 2018) <br>

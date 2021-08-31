@@ -6,9 +6,11 @@
     <description>Recent content in Projects on Nicholas Fox</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Nicholas Fox</copyright>
+    <copyright>&amp;copy; 2019 Nicholas Fox</copyright>
     <lastBuildDate>Sun, 13 Aug 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>1: Measuring the Size of Hidden Populations</title>
@@ -16,14 +18,7 @@
       <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/project/social-networks/</guid>
-      <description>&lt;p&gt;Many people live with stigma, or some trait that devalues them in the view of others.  For some, this stigma can be concealed - sexual orientation or smoking can both be stigmatizing but can be kept secret from other people.  However, there are many times where it is important to know how many people identify with a particular stigma.  For example, drug users who use needles are at an increased risk for HIV and other bloodborne pathogens.  Sex workers are at an increased risk for HIV, sexually transmitted infection, and personal violence.&lt;/p&gt;
-
-&lt;p&gt;When asked directly, individuals with concealable stigma have the option of either concealing their identity (denying their identity when asked) or reveal their identity.  This decision to conceal or reveal is a complex one that entails how likely it is they will be &amp;ldquo;outed&amp;rdquo; by their own behaviors or somebody else, the perceived repercussions of having their identity revealed, and the prospect of social support.&lt;/p&gt;
-
-&lt;p&gt;One way to try and count the number of people with concealable stigmas is to use social networks.  By tapping into the shared information that exists within social networks, researchers can glean the number of people have certain characteristcs by asking members of the general population.&lt;/p&gt;
-
-&lt;p&gt;I am currently applying this methodology to academic social networks in an effort to measure the number of researchers who use questionable research practices (QRPs).  Use of these QRPs has led to an increase in the number of scientific findings that are not replicatable.  It is important to understand the number of researchers who engage in these questionable practices in order to construct meaningful interventions and to monitor the efficacy of these interventions.&lt;/p&gt;
-</description>
+      <description>Many people live with stigma, or some trait that devalues them in the view of others. For some, this stigma can be concealed - sexual orientation or smoking can both be stigmatizing but can be kept secret from other people. However, there are many times where it is important to know how many people identify with a particular stigma. For example, drug users who use needles are at an increased risk for HIV and other bloodborne pathogens.</description>
     </item>
     
     <item>
@@ -32,12 +27,8 @@
       <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/project/mia/</guid>
-      <description>&lt;p&gt;How does the mother&amp;rsquo;s immune system influence the developing offspring?  What role do T cells play? These were the driving question behind my Master&amp;rsquo;s degree research.  Here, we experimentally activated the T cells of pregnant mice mid-gestation and monitored the offspring as they grew up into adulthood.  When adults, we tested their spatial learning behaviors.&lt;/p&gt;
-
-&lt;p&gt;We found that offspring from mothers who were sick during pregnancy had reduced success in using spatial memory to navigate a maze.  Offspring from mothers who were given saline during pregnancy completed the maze faster on every day of testing.  While experimentally-treated offspring did learn (as seen by increasing success with practice), they were always worse compared to the control-treated offspring.&lt;/p&gt;
-
-&lt;p&gt;A paper based on this work is in preperation for submission, and a second paper focusing on how maternal illness differentally affects different strains of mice is also being prepared.&lt;/p&gt;
-</description>
+      <description>How does the mother&amp;rsquo;s immune system influence the developing offspring? What role do T cells play? These were the driving question behind my Master&amp;rsquo;s degree research. Here, we experimentally activated the T cells of pregnant mice mid-gestation and monitored the offspring as they grew up into adulthood. When adults, we tested their spatial learning behaviors.
+We found that offspring from mothers who were sick during pregnancy had reduced success in using spatial memory to navigate a maze.</description>
     </item>
     
   </channel>

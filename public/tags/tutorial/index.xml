@@ -6,9 +6,11 @@
     <description>Recent content in Tutorial on Nicholas Fox</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Nicholas Fox</copyright>
+    <copyright>&amp;copy; 2019 Nicholas Fox</copyright>
     <lastBuildDate>Thu, 16 Aug 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/tutorial/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Writing Reproducible Scientific Papers in R: A Tutorial Series</title>
@@ -16,12 +18,8 @@
       <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/writing-reproducible-scientific-papers-in-r-a-tutorial-series/</guid>
-      <description>&lt;p&gt;I just preprinted my first 1st-author paper. Exciting! You can find it here: &lt;a href=&#34;https://psyarxiv.com/3v7hx/&#34; target=&#34;_blank&#34;&gt;How Many Psychologists Use Questionable Research Practices?&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;I used this paper as a project to learn how to create a fully reproducible paper. By that, I mean a person could take my data files and my “paper” file and fully reproduce the paper (including analyses, figures, tables, etc) and the final document all in one step. The special part of this process is the “paper” file. I used R, RStudio, RMarkdown, and a package called Papaja (Aust &amp;amp; Barth 2016) to create a file that contains text, analyses, and figure creation all in one place. There are no image files or pre-made tables…the whole process of data analysis, figure/table creation, and manuscript preperation happens in the same place at the same time.&lt;/p&gt;
-&lt;p&gt;I originally was going to write a set of blog posts about the process, but felt it was much more natural to &lt;b&gt;show&lt;/b&gt; rather than &lt;b&gt;tell&lt;/b&gt;, so I started a YouTube video series walking through all the steps!&lt;/p&gt;
-&lt;p&gt;You can find the playlist of videos on my YouTube page here: &lt;a href=&#34;https://www.youtube.com/watch?v=MxCnnqpnN5Y&amp;list=PLmvNihjFsoM5hpQdqoI7onL4oXDSQ0ym8&#34; target=&#34;_blank&#34;&gt;Writing Reproducible Scientific Papers in R&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;I will be making 1-2 videos per week as we journey from download programs all the way through writing completely reproducible scientific papers. You can do it! It just takes a little bit of practice to get comfortable with all of the steps involved, and I hope I can help with that!&lt;/p&gt;
-</description>
+      <description>I just preprinted my first 1st-author paper. Exciting! You can find it here: How Many Psychologists Use Questionable Research Practices?
+I used this paper as a project to learn how to create a fully reproducible paper. By that, I mean a person could take my data files and my “paper” file and fully reproduce the paper (including analyses, figures, tables, etc) and the final document all in one step. The special part of this process is the “paper” file.</description>
     </item>
     
   </channel>

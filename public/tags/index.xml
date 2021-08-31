@@ -6,9 +6,11 @@
     <description>Recent content in Tags on Nicholas Fox</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Nicholas Fox</copyright>
+    <copyright>&amp;copy; 2019 Nicholas Fox</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Content tagged as &#39;Academic&#39;</title>
@@ -16,8 +18,7 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/academic/</guid>
-      <description>&lt;p&gt;Here is a list of all the content that has been tagged as &lt;em&gt;academic&lt;/em&gt;.&lt;/p&gt;
-</description>
+      <description>Here is a list of all the content that has been tagged as academic.</description>
     </item>
     
     <item>
@@ -39,11 +40,38 @@
     </item>
     
     <item>
+      <title>Drop Out</title>
+      <link>/tags/drop-out/</link>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/drop-out/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First Generation College Student</title>
+      <link>/tags/first-generation-college-student/</link>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/first-generation-college-student/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Free Speech</title>
       <link>/tags/free-speech/</link>
       <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/free-speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graduate School</title>
+      <link>/tags/graduate-school/</link>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/graduate-school/</guid>
       <description></description>
     </item>
     
@@ -62,6 +90,15 @@
       <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/immunology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Masters</title>
+      <link>/tags/masters/</link>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/masters/</guid>
       <description></description>
     </item>
     
@@ -111,6 +148,15 @@
     </item>
     
     <item>
+      <title>Phd</title>
+      <link>/tags/phd/</link>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Publication</title>
       <link>/tags/publication/</link>
       <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
@@ -143,6 +189,51 @@
       <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/rmarkdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rtweet</title>
+      <link>/tags/rtweet/</link>
+      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/rtweet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Networks</title>
+      <link>/tags/social-networks/</link>
+      <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/social-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tone</title>
+      <link>/tags/tone/</link>
+      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>/tags/tutorial/</link>
+      <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twitter</title>
+      <link>/tags/twitter/</link>
+      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/twitter/</guid>
       <description></description>
     </item>
     
